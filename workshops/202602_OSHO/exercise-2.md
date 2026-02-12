@@ -1,4 +1,4 @@
-# Exercise 1 - Submit a pull request
+# Exercise 2 - Submit a pull request
 
 ## Instructions
 
@@ -6,7 +6,7 @@
 1. Read the note about this information being public!
 1. Add your name next to one of the numbers (avoid choosing the same number as someone else!)
 1. Submit a Pull Request to THIS REPO at the line number you chose. In your PR include the following:
-    - Your name; date today; a link to your research profile or some of your work
+    - Your name; date today; a link to your research profile or some of your work; social link (e.g. LinkedIn)
 
 ## Participant PRs
 
